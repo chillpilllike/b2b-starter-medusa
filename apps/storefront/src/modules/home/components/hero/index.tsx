@@ -52,10 +52,7 @@ const Hero = () => {
             See our widest selection of electronics
           </p>
         </span>
-        <a
-          href="https://github.com/medusajs/nextjs-starter-medusa"
-          target="_blank"
-        >
+        <a href="https://git.new/b2b-starter-repo" target="_blank">
           <Button variant="secondary" className="rounded-2xl">
             <Github />
             Github Repository
