@@ -35,4 +35,4 @@ RUN yarn build
 # Expose the application port
 
 # Start the application
-# yarn start
+RUN yarn start
