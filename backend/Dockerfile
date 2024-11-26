@@ -7,7 +7,7 @@ FROM nixos/nix:2.15.0
 # Clone the repository
 # RUN git clone --branch develop https://github.com/medusajs/b2b-starter-medusa.git .
 
-WORKDIR /app
+# WORKDIR /app
 
 # Copy .env file into the image
 # COPY .env /app/backend/.env
